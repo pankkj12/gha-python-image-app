@@ -1,4 +1,4 @@
-# Simple Python Flask Multi-Page Dockerized Image Application
+# Simple Python Flask Multi-Page Dockerised Image Application
 
 Build the image using the following command
 
